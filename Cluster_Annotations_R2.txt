@@ -1,0 +1,44 @@
+Cluster Annotations
+0 DG-Kcnip4 GC
+1 DG-Stxbp6 GC
+2 DG-Mast4 GC
+3 DG-Hectd2 GC
+4 DG-Ntng1 GC
+5 DG-Csgalnact1 GC
+6 CA3-Excitatory
+7 DG-Trpc6 GC
+8 DG-Cdh12 GC
+9 SB-Dpp10-Neuron
+10 DG-Map4k GC
+11 DG-Slc4a4 GC
+12 CA3-Subtype
+13 CA1-Pex5l
+14 DG-Cdh13 GC
+15 DG-NSC
+16 DG-Immature GC
+17 DG-Prrx1-Mossy
+18 DG-Kcnc2-GABA
+19 DG-Cnr1-GABA
+20 DG-Nos-GABA
+21 DG-Sv2b-Mossy
+22 CA1-Unc5d
+23 DG-SST-GABA
+24 DG-Slit2-Mossy
+25 DG-NP/NB
+26 DG-Negr1 GC
+27 Oligo
+28 CA2/CA3-Excitatory 1
+29 Endothelial
+30 DG-Sema6d GC
+31 OPC/VLMC
+32 DG-Arc GC
+33 SB-Foxp2-GABA
+34 CA2/CA3 Excitatory 2
+35 Microglia/Macrophage
+36 Astrocyte
+37 Cajal-Retzius-GABA
+38 SB-Tox-GABA
+39 SB-Excitatory-Neuron
+40 DG-PV-GABA
+41 SB-Meis2-GABA
+42 Ependymal
