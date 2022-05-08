@@ -1,7 +1,7 @@
 # Song-Lab
 
 
-This Repo contains the code used to process and analyze snRNA-seq data using from Split-seq Quintanilla et al.
+This Repo contains the code used to process and analyze snRNA-seq data using Split-seq from Quintanilla et al.
 
 The following scripts include preprocessing, normalization, differential gene expression analysis, pseudotime analysis and Nichenet analysis.
 
